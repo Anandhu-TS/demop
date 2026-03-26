@@ -1,5 +1,5 @@
 # ASPIRING SOFTWARE DEVELOPER
-#### anandhutsarun@gmail.com , linkedin.com/in/Anandhu-TS , +91 8281350626 , Kollam, Kerala 
+#### [MAIL](anandhutsarun@gmail.com) | [Linkedin](linkedin.com/in/Anandhu-TS) | +91 8281350626
 
 ## SUMMARY
 A passionate, self-motivated and aspiring Software Developer with a strong foundation in programming,
