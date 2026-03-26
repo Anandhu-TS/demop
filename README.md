@@ -13,7 +13,7 @@ dynamic and growth-oriented teams.
 
 ## EDUCATION
 ### Master's degree (MCA)
-CHMM College for Advanced Studies | Score: 70% (_11/2024_)
+CHMM College for Advanced Studies | Score: 70% (_November 2024_)
 ### Bachelor's degree (BSc CS)
 University institute of technology | Score: 65% (_12/2021_)
 
