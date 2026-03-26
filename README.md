@@ -1,5 +1,5 @@
 # ASPIRING SOFTWARE DEVELOPER
-#### [MAIL](anandhutsarun@gmail.com) | [Linkedin](linkedin.com/in/Anandhu-TS) | +91 8281350626
+#### [MAIL](https://www.anandhutsarun@gmail.com) | [Linkedin](https://www.linkedin.com/in/Anandhu-TS) | +91 8281350626
 
 ## SUMMARY
 A passionate, self-motivated and aspiring Software Developer with a strong foundation in programming,
@@ -8,9 +8,9 @@ develop innovative software solutions. Enthusiastic about learning new technolog
 dynamic and growth-oriented teams.
 
 ## EDUCATION
-### Master's degree (MCA)
-CHMM College for Advanced Studies | Score: 70% (_November 2024_)
-### Bachelor's degree (BSc CS)
+- ### Master's degree (MCA)
+CHMM College for Advanced Studies | Score: 70% (_11/2024_)
+- ### Bachelor's degree (BSc CS)
 University institute of technology | Score: 65% (_12/2021_)
 
 
@@ -18,16 +18,16 @@ University institute of technology | Score: 65% (_12/2021_)
 ### JUST LAW
 Developed an integrated platform with face detection and crime matching for law enforcement with case 
 management, suspect identification, and predictive crime analysis.
-Sole developer
-- Deep Learning: Implemented OpenFace with pre-trained CNNs for accurate facial feature extraction and 
+| *Sole developer*
+- **Deep Learning**: Implemented OpenFace with pre-trained CNNs for accurate facial feature extraction and 
 recognition from images/videos.
-- Machine Learning: Utilized the Apriori algorithm for association rule mining to identify crime patterns and 
+- **Machine Learning**: Utilized the Apriori algorithm for association rule mining to identify crime patterns and 
 predict related criminal activities based on attributes like location, time, and modus operandi.
-- Artificial Intelligence: Combined computer vision (face detection) and pattern recognition (crime matching) 
+- **Artificial Intelligence**: Combined computer vision (face detection) and pattern recognition (crime matching) 
 to create an AI-driven system for automated law enforcement decision support.
-- Web Development: Built a Django-based backend with a user-friendly interface for managing criminal 
+- **Web Development**: Built a Django-based backend with a user-friendly interface for managing criminal 
 records, integrating face detection results, and visualizing crime patterns.
-- Impact: Streamlined police operations by providing a unified platform for case management, suspect 
+- **Impact**: Streamlined police operations by providing a unified platform for case management, suspect 
 identification, and predictive crime analysis
 
 ## CERTIFICATIONS
@@ -41,6 +41,7 @@ identification, and predictive crime analysis
 - Backend Frameworks : Django, Express.js, Node.js
 - Databases : MySQL, MongoDB
 - Tools : Git, VS Code, Postman
+
 ### SOFT SKILLS
 - Communication
 - Teamwork
