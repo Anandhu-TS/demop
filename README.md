@@ -1,5 +1,5 @@
 # ASPIRING SOFTWARE DEVELOPER
-#### [MAIL](https://www.anandhutsarun@gmail.com) | [Linkedin](https://www.linkedin.com/in/Anandhu-TS) | +91 8281350626
+#### [MAIL](mailto:anandhutsarun@gmail.com) | [Linkedin](https://www.linkedin.com/in/Anandhu-TS) | +91 8281350626
 
 ## SUMMARY
 A passionate, self-motivated and aspiring Software Developer with a strong foundation in programming,
